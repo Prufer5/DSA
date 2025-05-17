@@ -1,6 +1,5 @@
 /*
-    Autori:     Grossi Mara, 159901
-                Toneatto Jessica, 153425
+    Grossi Mara 
 */
 
 #include <iostream>
